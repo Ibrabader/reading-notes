@@ -1,6 +1,7 @@
 # Why Does Mindset Matter?
 
-**here is a comparasion about types of mindsets**
+**here is a comparasion about types of mindsets**.
+
  |Fixed mindset|Growth Mindset|
  |:------------|:-------------|
  | based on the belief that your qualities are carved in stone | based on the belief that your basic qualities are things you can cultivate through your efforts, your strategies, and help from others|
