@@ -2,9 +2,9 @@
 
 **here is a comparasion about types of mindsets**.
 
- |Fixed mindset|Growth Mindset|
- |:------------|:-------------|
- | based on the belief that your qualities are carved in stone | based on the belief that your basic qualities are things you can cultivate through your efforts, your strategies, and help from others|
+ Fixed mindset|Growth Mindset
+ :------------|:------------
+  based on the belief that your qualities are carved in stone | based on the belief that your basic qualities are things you can cultivate through your efforts, your strategies, and help from others
 
 ![image]( https://drapari.com/wp-content/uploads/2019/09/Fixed-vs-Growth.jpg)
 
