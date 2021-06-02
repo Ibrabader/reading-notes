@@ -10,5 +10,7 @@ Table of contents |
 [diffrent Mindsets](mindset) |
 [About Markdown](markdown) |
 [What is GIT](git) |
+<<<<<<< HEAD
 [Structure web pages with HTML](htmlread)
+
 
