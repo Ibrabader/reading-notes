@@ -79,4 +79,4 @@ to know more abot them.
 - The condition test occurs before statement in the loop is executed. If the condition returns true, statement is executed and the condition is tested again. If the condition returns false, execution stops, and control is passed to the statement following while.
 
 - To execute multiple statements, use a block statement ({ ... }) to group those statements.
-[Example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#example_2)
+### [Example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#example_2)
