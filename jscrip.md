@@ -10,7 +10,11 @@
 
 - we are going to see how to get input from the user and combine that with the other two, to create a simple page that can great you.
 
+<<<<<<< HEAD
 [click here to see more](https://code-maven.com/input-output-in-plain-javascript)
+=======
+[click here to con](https://code-maven.com/input-output-in-plain-javascript)
+>>>>>>> 60ed0b661fe5f56ae4d504b7c413ff52b66c17ca
 
 
 
