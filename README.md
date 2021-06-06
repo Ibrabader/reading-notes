@@ -13,5 +13,9 @@ Table of contents |
 [Structure web pages with HTML](htmlread)|
 [Java Script](jscrip)|
 [CSS](csslanguage)|
+<<<<<<< HEAD
 [operators and loops](loops)|
 [ JavaScript Functions](projava) |
+=======
+[operators and loops](loops)|
+>>>>>>> 21830e3ed329822abf8e1f10328b5915d1d1dc7a
