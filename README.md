@@ -35,3 +35,8 @@ DAY12| --|
 DAY13| --|
 DAY14| --|
 DAY15| --|
+
+### Code 301 Reading Notes: 
+Table of contents |readings name |
+------------ | ------------ |
+DAY 1| Introduction to React and Components|
