@@ -41,3 +41,4 @@ Table of contents |readings name |
 ------------ | ------------ |
 DAY 1| [Introduction to React and Components](react)|
 DAY 2| [State and Props](state)|
+DAY 2| [Passing Functions as Props](class3)|
