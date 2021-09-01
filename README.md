@@ -43,3 +43,4 @@ DAY 1| [Introduction to React and Components](react)|
 DAY 2| [State and Props](state)|
 DAY 3| [Passing Functions as Props](class3)|
 DAY 4| [React and Forms](class4)|
+DAY 5| [Putting it all together](class5)|
