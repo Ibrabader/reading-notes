@@ -45,4 +45,4 @@ DAY 3| [Passing Functions as Props](class3)|
 DAY 4| [React and Forms](class4)|
 DAY 5| [Putting it all together](class5)|
 DAY 6| [Node JS](class6)|
-DAY 6| [Reset](class7)|
+DAY 6| [Reset](class07)|
