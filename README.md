@@ -47,4 +47,5 @@ DAY 5| [Putting it all together](class5)|
 DAY 6| [Node JS](class6)|
 DAY 7| [Reset](class07)|
 DAY 8| [API's](class8)|
+DAY 9| [FUNCTIONAL PROGRAMMING](class8)|
 
