@@ -48,5 +48,6 @@ DAY 6| [Node JS](class6)|
 DAY 7| [Reset](class07)|
 DAY 8| [API's](class8)|
 DAY 9| [FUNCTIONAL PROGRAMMING](class9)|
-DAY 9| [In memory storage](class10)|
+DAY 10| [In memory storage](class10)|
+DAY 11| [Mongo and Mongoose](class11)|
 
