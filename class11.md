@@ -1,4 +1,4 @@
-# Read 12: Mongo and Mongoose:
+
 
 ## nosql vs sql:
 
