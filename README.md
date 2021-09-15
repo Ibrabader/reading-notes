@@ -51,6 +51,9 @@ DAY 9| [FUNCTIONAL PROGRAMMING](class9)|
 DAY 10| [In memory storage](class10)|
 DAY 11| [Mongo and Mongoose](class11)|
 DAY 12| [CRUD](class12)|
-DAY 11| [Diversity & Inclusion in the Tech Industry](boxes)|
+DAY 13| [Diversity & Inclusion in the Tech Industry](boxes)|
+DAY 14| [Authentication](jscrip)|
+
+
 
 
