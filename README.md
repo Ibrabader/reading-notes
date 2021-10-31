@@ -56,7 +56,9 @@ DAY 13| [Diversity & Inclusion in the Tech Industry](boxes)|
 DAY 14| [Authentication](jscrip)|
 DAY 15| [Project Kickoff](git)|
 
-Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development : 
+
+DAY 1| [Introduction to React and Components](react)|
 
 
 
