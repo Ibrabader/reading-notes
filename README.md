@@ -4,6 +4,7 @@ Ibrahim Bader
 
 
 
+## Code 102 - Intro to Software Development
 
 Table of contents |
 ------------ | 
@@ -17,7 +18,7 @@ Table of contents |
 [ JavaScript Functions](projava) |
 [operators and loops](loops)|
 
-### Code 201 Reading Notes: 
+## Code 201 - Foundations of Software Development 
 Table of contents |readings name |
 ------------ | ------------ |
 DAY 1| --|
@@ -36,7 +37,7 @@ DAY13| --|
 DAY14| --|
 DAY15| --|
 
-### Code 301 Reading Notes: 
+## Code 301 - Intermediate Software Development
 Table of contents |readings name |
 ------------ | ------------ |
 DAY 1| [Introduction to React and Components](react)|
@@ -55,7 +56,7 @@ DAY 13| [Diversity & Inclusion in the Tech Industry](boxes)|
 DAY 14| [Authentication](jscrip)|
 DAY 15| [Project Kickoff](git)|
 
-
+Code 401 - Advanced Software Development
 
 
 
