@@ -2,8 +2,6 @@
 
 ### pain:
 
-any grpwth will cause pain.
-
 - 401 level tests a students skills in:
 •	Collaboration.
 •	Outside comfort zone.
