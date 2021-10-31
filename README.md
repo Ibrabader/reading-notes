@@ -58,7 +58,7 @@ DAY 15| [Project Kickoff](git)|
 
 ## Code 401 - Advanced Software Development : 
 
-DAY 1| [Introduction to React and Components](react)|
+DAY 1| [Read01](class401)|
 
 
 
