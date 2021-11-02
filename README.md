@@ -60,6 +60,8 @@ DAY 15| [Project Kickoff](git)|
 Table of contents |
 ------------ | 
 DAY 1| [Read01](class401)|
+DAY 2| [Read02](class401-02)|
+DAY 3| [ Read 03](class401-03)|
 
 
 
