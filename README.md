@@ -1,4 +1,8 @@
-Ibrahim Bader 
+# Reading Notes 
+
+
+## about :
+My name is Ibrahim Bader, this website is a collection of the readeings i make on approximate dayliy,
 - passionate about trying new skills both professionally and personally ,
 - Junior developer (trainee)
 
