@@ -1,0 +1,49 @@
+# Game of Greed 2
+
+## **Nested Functions: The Enclosing Scope**
+
+Enclosing or nonlocal scope i observed when you nest functions inside other functions,
+The enclosing scope was added in Python 2.2. It takes the form of the local scope of any enclosing function’s local scopes,
+Names that you define in the enclosing Python scope are commonly known as nonlocal names. 
+
+```
+>>> def outer_func():
+...     # This block is the Local scope of outer_func()
+...     var = 100  # A nonlocal var
+...     # It's also the enclosing scope of inner_func()
+...     def inner_func():
+...         # This block is the Local scope of inner_func()
+...         print(f"Printing var from inner_func(): {var}")
+...
+...     inner_func()
+...     print(f"Printing var from outer_func(): {var}")
+...
+>>> outer_func()
+Printing var from inner_func(): 100
+Printing var from outer_func(): 100
+>>> inner_func()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'inner_func' is not defined
+```
+When you call outer_func() : 
+you’re also creating a local scope, The local scope of outer_func() is at the same time the enclosing scope of inner_func().
+From inside inner_func() :
+this scope is neither the global scope nor the local scope, It’s a special scope that lies in between those two scopes and is known as the enclosing scope.
+
+
+
+## **Modules: The Global Scope**
+From the moment you start a Python program, you’re in the global Python scope,
+Internally, Python turns your program’s main script into a module called` __main__ `to hold the main program’s execution, The namespace of this module is the main global scope of your program.
+Whenever you run a Python program or an interactive session, the interpreter executes the code in the module or script that serves as an entry point to your program.
+This module or script is loaded with the special name, `__main__`. From this point on, you can say that your main global scope is the scope of `__main__`.
+
+To inspect the names within your main global scope, you can use dir(). If you call dir() without arguments, then you’ll get the list of names that live in your current global scope.
+```
+>>> dir()
+['__annotations__', '__builtins__',..., '__package__', '__spec__']
+>>> var = 100  # Assign var at the top level of __main__
+>>> dir()
+['__annotations__', '__builtins__',..., '__package__', '__spec__', 'var']
+```
